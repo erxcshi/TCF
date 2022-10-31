@@ -1,0 +1,6 @@
+
+(base) erxcshi@Erics-MacBook-Air TCF-HW1 % vim emptyfile
+(base) erxcshi@Erics-MacBook-Air TCF-HW1 % git add emptyfile 
+(base) erxcshi@Erics-MacBook-Air TCF-HW1 % git commit -m "edited emptyfile in second branch"
+(base) erxcshi@Erics-MacBook-Air TCF-HW1 % git push https://github.com/erxcshi/TCF.git
+
